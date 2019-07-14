@@ -2,3 +2,5 @@ project-dog-classification/dogImages/
 project-dog-classification/lfw/ 
 project-dog-classification/model_scratch.pt
 project-dog-classification/model_transfer.pt
+**/*.zip
+transfer-learning/flower_photos/
