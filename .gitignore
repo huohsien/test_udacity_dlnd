@@ -5,4 +5,4 @@ project-dog-classification/model_transfer.pt
 **/*.zip
 transfer-learning/flower_photos/
 recurrent-neural-networks/char-rnn/rnn_40_epoch.net
-word2vec-embeddings/data/text8
+word2vec-embeddings/__pycache__/utils.cpython-36.pyc
